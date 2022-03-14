@@ -1,0 +1,12 @@
+c:\users\mr burhan\documents\visual studio 2012\Projects\Calculator 036\Calculator 036\bin\Debug\Calculator 036.exe.config
+c:\users\mr burhan\documents\visual studio 2012\Projects\Calculator 036\Calculator 036\bin\Debug\Calculator 036.exe
+c:\users\mr burhan\documents\visual studio 2012\Projects\Calculator 036\Calculator 036\bin\Debug\Calculator 036.pdb
+c:\users\mr burhan\documents\visual studio 2012\Projects\Calculator 036\Calculator 036\obj\Debug\Calculator 036.csprojResolveAssemblyReference.cache
+c:\users\mr burhan\documents\visual studio 2012\Projects\Calculator 036\Calculator 036\obj\Debug\Calculator_036.Form1.resources
+c:\users\mr burhan\documents\visual studio 2012\Projects\Calculator 036\Calculator 036\obj\Debug\Calculator_036.Properties.Resources.resources
+c:\users\mr burhan\documents\visual studio 2012\Projects\Calculator 036\Calculator 036\obj\Debug\Calculator 036.csproj.GenerateResource.Cache
+c:\users\mr burhan\documents\visual studio 2012\Projects\Calculator 036\Calculator 036\obj\Debug\Calculator 036.exe
+c:\users\mr burhan\documents\visual studio 2012\Projects\Calculator 036\Calculator 036\obj\Debug\Calculator 036.pdb
+C:\Users\Mr Burhan\Desktop\Calculator 00\Calculator 036\bin\Debug\Calculator 036.exe.config
+C:\Users\Mr Burhan\Desktop\Calculator 00\Calculator 036\obj\Debug\Calculator 036.exe
+C:\Users\Mr Burhan\Desktop\Calculator 00\Calculator 036\obj\Debug\Calculator 036.pdb
